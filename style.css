@@ -1,0 +1,18 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.heading{
+    margin-top:0px;
+    text-align:center;
+    width:100%;
+    letter-spacing:2px;
+}
+.heading2{
+    margin-top:0px;
+    text-align:center;
+    width:100%;
+    letter-spacing:2px;
+    color:black;
+    
+}
